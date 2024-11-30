@@ -5,7 +5,7 @@ A RESTful API service that allows users to create, read, update, and delete note
 ## Tech Stack & Design Choices
 
 ### Core Framework
-- **Spring Boot 
+- **Spring Boot** 
 
 ### Database
 - **PostgreSQL**
